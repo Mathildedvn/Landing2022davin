@@ -15,14 +15,14 @@ a {
 }
 .banner{
 	text-align: center;
-	background-image: url(images/banner.jpg);
+	background-image: url(images/France.jpg);
 	background-size: cover;
 	background-position: center;
 	color: white;
 	padding: 100px 0px;
 }
 
-.btn-yellown{
+.btn-yellow{
 	background-color: #f9b435;
 	padding: 10px 45px;
 	border-radius: 4px;
